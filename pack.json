@@ -1,0 +1,9 @@
+{
+  "name": "3DS Home Menu Theme",
+  "description": "The default home menu theme on the Nintendo 3DS.",
+  "author": "WriterOfWorlds",
+  "version": "v1.0",
+  "manifest_version": 1,
+  "music": true,
+  "ignore": []
+}
